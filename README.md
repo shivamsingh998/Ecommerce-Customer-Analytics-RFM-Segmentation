@@ -51,10 +51,17 @@ Key objectives:
 - `Excel/` – Final dataset used for Power BI.
 - `PowerBI/` – Power BI report and dashboard screenshots.
 
+
 ## Dashboard Preview
-"C:\Users\HP\Desktop\A Project\SQL & MySQL\Project 2\Dashboard Pic\1.png"
-"C:\Users\HP\Desktop\A Project\SQL & MySQL\Project 2\Dashboard Pic\2.png"
-"C:\Users\HP\Desktop\A Project\SQL & MySQL\Project 2\Dashboard Pic\3.png"
+
+### 1. E-commerce Sales Overview Dashboard
+![E-commerce Sales Overview](1.png)
+
+### 2. Customer Analytics Dashboard
+![Customer Analytics](2.png)
+
+### 3. RFM Customer Segmentation Dashboard
+![RFM Customer Segmentation](3.png)
 
 ## How to Run This Project
 1. Download the source dataset using the instructions in the Dataset folder.
